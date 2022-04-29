@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
-	github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46
+	github.com/NYTimes/gziphandler v1.1.1
 	github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986
 	github.com/aquasecurity/fanal v0.0.0-20220117141050-4586f4391cac
 	github.com/aquasecurity/go-dep-parser v0.0.0-20211224170007-df43bca6b6ff
@@ -33,18 +33,18 @@ require (
 	github.com/masahiro331/go-mvn-version v0.0.0-20210429150710-d3157d602a08
 	github.com/mitchellh/copystructure v1.1.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/open-policy-agent/opa v0.36.0
+	github.com/open-policy-agent/opa v0.40.0
 	github.com/owenrumney/go-sarif/v2 v2.0.17
 	github.com/spf13/afero v1.6.0
 	github.com/stretchr/objx v0.3.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/testcontainers/testcontainers-go v0.11.1
 	github.com/twitchtv/twirp v8.1.0+incompatible
 	github.com/urfave/cli/v2 v2.3.0
 	go.uber.org/zap v1.19.1
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.0
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
-	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
+	k8s.io/utils v0.0.0-20210930125809-cb0fa318a74b
 )
