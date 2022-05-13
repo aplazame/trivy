@@ -241,8 +241,6 @@ github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516 h1:moQmzbp
 github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516/go.mod h1:gTd97VdQ0rg8Mkiic3rPgNOQdprZ7feTAhiD5mGQjgM=
 github.com/aquasecurity/tfsec v0.63.1 h1:KH63HTcUoab7d3PKtqFO6T8K5AY7bzLw7Kiu+EY9U64=
 github.com/aquasecurity/tfsec v0.63.1/go.mod h1:g5ZWmsfqW1FsCaPb9ux8Pzjcyss/WUB2XuRd5slqvnc=
-github.com/aquasecurity/trivy-db v0.0.0-20220116182821-1a83ba8d44cf h1:STzhFjoXPmE+HQzjydti5w5KNvQpUYwaH4y878jq+II=
-github.com/aquasecurity/trivy-db v0.0.0-20220116182821-1a83ba8d44cf/go.mod h1:rnojVJTK+RySsfLW7xMqmQRSjQpm5fEjS+/N4kf3fcc=
 github.com/aquasecurity/trivy-db v0.0.0-20220119092408-3e43e9ac6def h1:2E1Fj1ouevZG/2ii+XgZitDf3h5fyvNeUKduHbpDZr0=
 github.com/aquasecurity/trivy-db v0.0.0-20220119092408-3e43e9ac6def/go.mod h1:rnojVJTK+RySsfLW7xMqmQRSjQpm5fEjS+/N4kf3fcc=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
@@ -531,8 +529,9 @@ github.com/docker/docker v20.10.3-0.20210609071616-4c2ec79bf2a8+incompatible/go.
 github.com/docker/docker v20.10.6+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker v20.10.7+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker v20.10.11+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
-github.com/docker/docker v20.10.12+incompatible h1:CEeNmFM0QZIsJCZKMkZx0ZcahTiewkrgiwfYD+dfl1U=
 github.com/docker/docker v20.10.12+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
+github.com/docker/docker v20.10.16+incompatible h1:2Db6ZR/+FUR3hqPMwnogOPHFn405crbpxvWzKovETOQ=
+github.com/docker/docker v20.10.16+incompatible/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/docker-credential-helpers v0.6.3/go.mod h1:WRaJzqw3CTB9bk10avuGsjVBZsD05qeibJ1/TYlvc0Y=
 github.com/docker/docker-credential-helpers v0.6.4 h1:axCks+yV+2MR3/kZhAmy07yC56WZ2Pwu/fKWtKuZB0o=
 github.com/docker/docker-credential-helpers v0.6.4/go.mod h1:ofX3UI0Gz1TteYBjtgs07O36Pyasyp66D2uKT7H8W1c=
