@@ -19,7 +19,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.0.3
 	github.com/docker/docker v20.10.12+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.14.0
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/goccy/go-yaml v1.8.2 // indirect
 	github.com/golang/protobuf v1.5.2
