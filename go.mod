@@ -17,13 +17,13 @@ require (
 	github.com/caarlos0/env/v6 v6.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.0.3
-	github.com/docker/docker v20.10.12+incompatible
+	github.com/docker/docker v20.10.20+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.13.0
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/goccy/go-yaml v1.8.2 // indirect
 	github.com/golang/protobuf v1.5.2
-	github.com/google/go-containerregistry v0.7.1-0.20211214010025-a65b7844a475
+	github.com/google/go-containerregistry v0.13.0
 	github.com/google/wire v0.4.0
 	github.com/hashicorp/go-getter v1.5.2
 	github.com/huandu/xstrings v1.3.2 // indirect
@@ -42,9 +42,9 @@ require (
 	github.com/twitchtv/twirp v8.1.0+incompatible
 	github.com/urfave/cli/v2 v2.3.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	google.golang.org/protobuf v1.27.1
+	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
 )
