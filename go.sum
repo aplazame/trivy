@@ -241,8 +241,6 @@ github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516 h1:moQmzbp
 github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516/go.mod h1:gTd97VdQ0rg8Mkiic3rPgNOQdprZ7feTAhiD5mGQjgM=
 github.com/aquasecurity/tfsec v0.63.1 h1:KH63HTcUoab7d3PKtqFO6T8K5AY7bzLw7Kiu+EY9U64=
 github.com/aquasecurity/tfsec v0.63.1/go.mod h1:g5ZWmsfqW1FsCaPb9ux8Pzjcyss/WUB2XuRd5slqvnc=
-github.com/aquasecurity/trivy-db v0.0.0-20220116182821-1a83ba8d44cf h1:STzhFjoXPmE+HQzjydti5w5KNvQpUYwaH4y878jq+II=
-github.com/aquasecurity/trivy-db v0.0.0-20220116182821-1a83ba8d44cf/go.mod h1:rnojVJTK+RySsfLW7xMqmQRSjQpm5fEjS+/N4kf3fcc=
 github.com/aquasecurity/trivy-db v0.0.0-20220119092408-3e43e9ac6def h1:2E1Fj1ouevZG/2ii+XgZitDf3h5fyvNeUKduHbpDZr0=
 github.com/aquasecurity/trivy-db v0.0.0-20220119092408-3e43e9ac6def/go.mod h1:rnojVJTK+RySsfLW7xMqmQRSjQpm5fEjS+/N4kf3fcc=
 github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e/go.mod h1:3U/XgcO3hCbHZ8TKRvWD2dDTCfh9M9ya+I9JpbB7O8o=
@@ -1302,8 +1300,8 @@ github.com/owenrumney/go-sarif v1.0.10/go.mod h1:sgJM0ZaZ28jT8t8Iq3/mUCFBW9cX09E
 github.com/owenrumney/go-sarif v1.0.12/go.mod h1:Jk5smXU9QuCqTdh4N3PehnG+azzrf0XcQ267ZwAG8Ho=
 github.com/owenrumney/go-sarif v1.1.1 h1:QNObu6YX1igyFKhdzd7vgzmw7XsWN3/6NMGuDzBgXmE=
 github.com/owenrumney/go-sarif v1.1.1/go.mod h1:dNDiPlF04ESR/6fHlPyq7gHKmrM0sHUvAGjsoh8ZH0U=
-github.com/owenrumney/go-sarif/v2 v2.0.17 h1:F3V0IQYMjOqBtfnQQWC+yv5dTISkcZuG/9YBv0mIEBE=
-github.com/owenrumney/go-sarif/v2 v2.0.17/go.mod h1:MSqMMx9WqlBSY7pXoOZWgEsVB4FDNfhcaXDA1j6Sr+w=
+github.com/owenrumney/go-sarif/v2 v2.2.1 h1:JQdYPxqwgj5MmTyrZDa9SNXxIvKndKeZfIoiwz4HRPU=
+github.com/owenrumney/go-sarif/v2 v2.2.1/go.mod h1:MSqMMx9WqlBSY7pXoOZWgEsVB4FDNfhcaXDA1j6Sr+w=
 github.com/owenrumney/squealer v0.2.28 h1:LYsqUHal+5QlANjbZ+h44SN5kIZSfHCWKUzBAS1KwB0=
 github.com/owenrumney/squealer v0.2.28/go.mod h1:wwVPzhjiUBILIdDtnzGSEcapXczIj/tONP+ZJ49IhPY=
 github.com/pact-foundation/pact-go v1.0.4/go.mod h1:uExwJY4kCzNPcHRj+hCR/HBbOOIwwtUjcrb0b5/5kLM=
