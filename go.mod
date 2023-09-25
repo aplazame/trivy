@@ -35,7 +35,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v0.36.0
 	github.com/owenrumney/go-sarif/v2 v2.0.17
-	github.com/spf13/afero v1.6.0
+	github.com/spf13/afero v1.10.0
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/testcontainers/testcontainers-go v0.11.1
